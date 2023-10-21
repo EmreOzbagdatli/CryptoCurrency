@@ -69,7 +69,6 @@
 			children = (
 				FC1DF5C42AE3CA4900B02655 /* Assets.xcassets */,
 				FC1DF5C62AE3CA4900B02655 /* LaunchScreen.storyboard */,
-				FC1DF5C92AE3CA4900B02655 /* Info.plist */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -93,6 +92,7 @@
 		FC1DF5BA2AE3CA4800B02655 /* KriptoParaUygulamasi */ = {
 			isa = PBXGroup;
 			children = (
+				FC1DF5C92AE3CA4900B02655 /* Info.plist */,
 				1E6DBB212AE3FE220068125A /* App */,
 				FC1DF5D42AE3DEA800B02655 /* Service */,
 				FC1DF5CF2AE3CA6300B02655 /* View */,
